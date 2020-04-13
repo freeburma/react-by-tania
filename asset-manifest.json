@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-by-tania/static/css/main.5f99f8b7.chunk.css",
+    "main.js": "/react-by-tania/static/js/main.8ba47ff4.chunk.js",
+    "main.js.map": "/react-by-tania/static/js/main.8ba47ff4.chunk.js.map",
+    "runtime-main.js": "/react-by-tania/static/js/runtime-main.8e0a6d50.js",
+    "runtime-main.js.map": "/react-by-tania/static/js/runtime-main.8e0a6d50.js.map",
+    "static/js/2.eb3e6766.chunk.js": "/react-by-tania/static/js/2.eb3e6766.chunk.js",
+    "static/js/2.eb3e6766.chunk.js.map": "/react-by-tania/static/js/2.eb3e6766.chunk.js.map",
+    "index.html": "/react-by-tania/index.html",
+    "precache-manifest.45748275f7be7f3e5bde532fb7394c64.js": "/react-by-tania/precache-manifest.45748275f7be7f3e5bde532fb7394c64.js",
+    "service-worker.js": "/react-by-tania/service-worker.js",
+    "static/css/main.5f99f8b7.chunk.css.map": "/react-by-tania/static/css/main.5f99f8b7.chunk.css.map",
+    "static/js/2.eb3e6766.chunk.js.LICENSE.txt": "/react-by-tania/static/js/2.eb3e6766.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e0a6d50.js",
+    "static/js/2.eb3e6766.chunk.js",
+    "static/css/main.5f99f8b7.chunk.css",
+    "static/js/main.8ba47ff4.chunk.js"
+  ]
+}
