@@ -1,7 +1,9 @@
 ## React Tutotrial by Tina 
 
-## Date: 13-April-2020 12:33pm
-## Tutorial Ref: https://www.taniarascia.com/getting-started-with-react/
+Project Preview URL: https://freeburma.github.io/react-by-tania
+
+Project Completed Date: 13-April-2020 12:33pm
+#### Tutorial Ref: https://www.taniarascia.com/getting-started-with-react/
 
 Source Code: git clone https://github.com/taniarascia/react-tutorial.git
 
